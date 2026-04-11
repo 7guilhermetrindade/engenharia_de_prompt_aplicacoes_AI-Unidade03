@@ -1,0 +1,20 @@
+
+        "#Define uma lista de números interiros\n",
+        "numeros=[0, 1 ,2 ,3 ,4]\n",
+        "# Inicializa uma váriavel para armazenar a soma dos números\n",
+        "soma=0\n",
+        "#Itera sobre cada número na lista 'numeros'\n",
+        "for num in numeros:\n",
+        " #Adiciona o número atual a váriavel\n",
+        "    soma+=num\n",
+        "print(soma)"
+     
+        "Def inverte_(texto):\n",
+        " invertido= ''\n",
+        " for letra in texto:\n",
+        "  invertido = letra + invertido\n",
+        " return invertido"
+     
+     
+
+  
